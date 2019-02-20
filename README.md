@@ -9,6 +9,7 @@ Ethereum
 
 4. Powerball Lottery - requires the player to pick 6 numbers per ticket, they may pick the first 5 numbers from 1-69. The sixth number is a special Powerball number and players may pick from 1-26. Each round also has a time limit which depends on how long the deploying account sets it, after each round drawing is held and the winning ticket consisting of five standard numbers and a Powerball number is picked. Prizes are paid out based on the number of winning numbers matched on your ticket.
 
+
 Hyperledger
 1. Simple Lottery - same lottery process as Ethereum only they have a different process flow since hyperledger is a permissioned/private platform. Both admins and users must first register to join the network. Users can only buy 1 ticket and the admin will draw the winner privately then the winner will be able to withdraw the prize.
 
